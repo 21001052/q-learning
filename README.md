@@ -25,8 +25,8 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION
 ```
-NAME:A joans jay authers 
-Register Number:212221240019
+NAME:THAMARAISELVAN V
+Register Number:212221240089
 ```
 ```
 def q_learning(env, 
